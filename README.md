@@ -3,17 +3,17 @@ This application describe about scan camera or pick photo from camera baseon por
 
 # Package info
 Tip: sometime error difference version around package (RN universal didnt like that :>), recommend work best version below:
-    "@react-navigation/native": "^6.1.18", // useFocused()
-    "react": "18.3.1",
-    "react-native": "0.75.3",
-    "react-native-image-crop-picker": "0.41.2", // pick photo from library
-    "react-native-reanimated": "3.15.4", // for worlkets
-    "react-native-safe-area-context": "4.11.0",  // for navigation
-    "react-native-screens": "3.34.0", // for navigation
-    "react-native-svg": "15.7.1", // for draw mask on camera preview
-    "react-native-vision-camera": "4.5.3", // for capture photo from camera
-    "react-native-worklets-core": "1.3.3", // getup performence on crop x,y image on preview camera
-    "vision-camera-cropper": "1.3.0" // for crop image with camera vision 
+   + "@react-navigation/native": "^6.1.18", // useFocused()
+   + "react": "18.3.1",
+   + "react-native": "0.75.3",
+   + "react-native-image-crop-picker": "0.41.2", // pick photo from library
+   + "react-native-reanimated": "3.15.4", // for worlkets
+   + "react-native-safe-area-context": "4.11.0",  // for navigation
+   + "react-native-screens": "3.34.0", // for navigation
+   + "react-native-svg": "15.7.1", // for draw mask on camera preview
+   + "react-native-vision-camera": "4.5.3", // for capture photo from camera
+   + "react-native-worklets-core": "1.3.3", // getup performence on crop x,y image on preview camera
+   + "vision-camera-cropper": "1.3.0" // for crop image with camera vision 
     
 # Get started
 Recommend build app on physical device 
