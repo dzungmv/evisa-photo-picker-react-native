@@ -7,6 +7,7 @@ Base resolution: 1080 x 1920
 
 # Package info
 Tip: sometime error difference version around package (RN universal didnt like that :>), recommend work best version below:
+```bash
    + "@react-navigation/native": "^6.1.18", // useFocused()
    + "react": "18.3.1",
    + "react-native": "0.75.3",
@@ -17,7 +18,8 @@ Tip: sometime error difference version around package (RN universal didnt like t
    + "react-native-svg": "15.7.1", // for draw mask on camera preview
    + "react-native-vision-camera": "4.5.3", // for capture photo from camera
    + "react-native-worklets-core": "1.3.3", // getup performence on crop x,y image on preview camera
-   + "vision-camera-cropper": "1.3.0" // for crop image with camera vision 
+   + "vision-camera-cropper": "1.3.0" // for crop image with camera vision
+```
     
 # Get started
 Recommend build app on physical device 
