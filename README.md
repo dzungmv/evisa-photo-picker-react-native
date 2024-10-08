@@ -1,5 +1,9 @@
 # Showup
-This application describe about scan camera or pick photo from camera baseon portrait and passport for eVisa
+This application describe about scan camera or pick photo from camera baseon portrait and passport for eVisa, ratio:
+ + Passport: 85.6 / 53.98
+ + Portrait: 2 / 3
+
+Base resolution: 1080 x 1920
 
 # Package info
 Tip: sometime error difference version around package (RN universal didnt like that :>), recommend work best version below:
@@ -31,9 +35,16 @@ cd .. && yarn start --reset-cache
 ```
 
 # Demo
+Press to capture + crop Passport
 ![IMG_0671](https://github.com/user-attachments/assets/dfe3586d-9b03-4aee-a2b5-889d4f138aee)
+
+Press to capture + crop Portrait
 ![IMG_0670](https://github.com/user-attachments/assets/befd69d9-60ae-4195-87b4-8df524794d5a)
+
+Result:
 ![IMG_0669](https://github.com/user-attachments/assets/a1b58d3d-cba1-4095-957b-882ff6b89337)
+
+Or option pick photo from libary
 ![IMG_0672](https://github.com/user-attachments/assets/7324d898-e850-4c18-bbff-94f84546b169)
 
 
